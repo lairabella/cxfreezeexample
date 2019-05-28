@@ -10,7 +10,19 @@
 
     $ pip install cx_Freeze
 
-**Note: Microsoft Visual C++ 14.0 is required **
+**Note: Microsoft Visual C++ 14.0 is required**
 
-    $
+    $ python setup.py build
+
+**Note: Look at "setup.py" file**
+
+## Linux
+
+### Install cx_Freeze
+
+    $ pip install cx_Freeze
+
+    $ python3 setup.py build
+
+
 
